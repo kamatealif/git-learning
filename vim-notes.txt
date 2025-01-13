@@ -1,0 +1,19 @@
+1) i => to insert mode
+2) esc => to esc the insert mode
+3) :q => to exit the file
+4) :q! => exit the file without saving the changes
+5) :w => save the changes 
+6) :wq => save the changes and exit the file 
+7) a => to start inserting where you left 
+8) $ = go the end of line 
+9) 0 => go the start of the line
+10) u => for undu the changes made 
+buffer = file opened 
+--Normal mode --
+1) x => to delete the char 
+2) dd => to delete the whole line 
+3) h => to move the cursor to the left  
+4) j => to move the cursor down 
+5) k => to move the cursor up 
+6) l => to move the cursor right 
+
